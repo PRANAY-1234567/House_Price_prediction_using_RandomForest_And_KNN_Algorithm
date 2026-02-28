@@ -11,5 +11,4 @@ This project is useful for:
 Learning the end-to-end workflow of a machine learning project.
 
 Real estate price analysis and forecasting.
-
 Demonstrating applied machine learning with practical use cases.
